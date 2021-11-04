@@ -1,0 +1,16 @@
+*BABEL*: es una librería que convierte código nuevo a código de versiones anteriores (paquete npm)
+*webpack*: empaquetador de módulos automático -->
+	> sirve para gestionar dependencias, 
+	>montar servidores de desarrollo y pruebas, 
+	>cargar módulos, 
+	>convertir a diferentes formatos
+	>minimizar código
+	>compilar sass a css
+	>compilar TS a JS
+	>Nos permite trabajar con JS moderno
+	> etc...
+ contras: 
+ > la configuración inicial es complicada
+ > dificulta encontrar errores en los paquetes
+*JSON* : JavaScript Object Notation - formato de texto para el intercambio de datos - siempre hay que usar comillas dobles.
+
