@@ -1,4 +1,4 @@
-# Webpack Starter
+# Webpack Starter VS 5
 
 This is the initial proyect to create apps using Webpack
 
